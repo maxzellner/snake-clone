@@ -6,7 +6,6 @@ using static System.Console;
 
 namespace Snake
 {
-
     class Program
     {
         static void Main(string[] args)
