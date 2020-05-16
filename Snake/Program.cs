@@ -36,7 +36,6 @@ namespace Snake
             {
                 var headOld = new Pixel(head.XPos, head.YPos);
 
-
                 var sw = Stopwatch.StartNew();
                 while (sw.ElapsedMilliseconds <= 100)
                 {
